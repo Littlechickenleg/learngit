@@ -8,4 +8,4 @@ Creating a new branch is quick.
 test for stash
 Creating a new branch is quick AND simple.
 test for --no-ff
-I make a test for friend
+I make a test for friend 
