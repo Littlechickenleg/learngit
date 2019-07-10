@@ -10,3 +10,4 @@ Creating a new branch is quick AND simple.
 test for --no-ff
 I make a test for friend 
 test for gitskills/learngit  dev
+test for rebase1
